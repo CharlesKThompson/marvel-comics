@@ -1,0 +1,14 @@
+* {
+    outline: 1px solid blue;
+}
+
+
+
+img {
+    width: 225px;
+    
+}
+
+.heroes {
+    align-content: space-around;
+}
